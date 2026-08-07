@@ -1,6 +1,6 @@
 ## Hi there, I am Ekta 👋
 
-I recently moved countries (Boston -> Toronto) and I am looking to expand my skills in Python, AI security, Web App Security, and anything/everything I find interesting along the way. I am actively building my foundational skills and using this GitHub as my technical journey diary.
+I recently moved countries (Boston -> Toronto) and looking for my next role. In parallel, I am also looking to expand my skills in Python, AI security, Web App Security, and anything/everything I find interesting along the way. I am actively building my foundational skills and using this GitHub as my technical journey diary.
 
 - 👩🏻‍💻 My experience so far...
   - Security: Securing each phase of the system lifecycle of medical devices (intravascular imaging), threat
@@ -19,7 +19,7 @@ I recently moved countries (Boston -> Toronto) and I am looking to expand my ski
        through vulnerability scans
 
 - 🌱 I’m currently learning ...
-  -  [ ] Python Basics (Loops, Functions, File parsing, understanding when to use which data structure) -
+  -  [ ] Python -
         learning through LeetCode and mini projects.
   -  [ ] Web App security - PortSwigger labs, mock threat model
   -  [ ] AI security - everything AI in security - securing AI models, how to use AI in security workflows,
