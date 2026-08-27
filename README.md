@@ -14,7 +14,8 @@ I recently moved countries (Boston -> Toronto) and looking for my next role. In 
                                       and post-market cybersecurity guidance.
 
 - 🔭 I am currently working on...
-  - [ ] Python - File Integrity Check
+  - [x] Python - File Integrity Check
+  - [ ] Mini AppSec pipeline using Python, Flask API, PostgreSQL, Docker, GitHub Actions
   - [ ] AI security and workflows - Using AI workflow to run first pass analysis of vulnerabilities notified
        through vulnerability scans
 
